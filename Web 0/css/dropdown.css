@@ -1,14 +1,5 @@
 @charset "UTF-8";
 
-/**
- * Horizontal CSS Drop-Down Menu Module
- *
- * @file		dropdown.css
- * @package		Dropdown
- * @version		0.8
- *
- */
-
 ul.dropdown,
 ul.dropdown li,
 ul.dropdown ul {
